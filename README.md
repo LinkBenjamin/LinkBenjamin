@@ -4,7 +4,7 @@ Hey there, I'm Ben... but owing to the fun of corporate username creation polici
 
 <img src="https://github.com/LinkBenjamin/LinkBenjamin/blob/main/logo1.jpg" width="500">
 
-My Adventures are posted to a DEV blog that you can find [here](https://dev.to/LinkBenjamin) and a Youtube channel that you can find [here](https://www.youtube.com/@TheAdventuresOfBlink/).  We have a sort of "main quest" consisting of Blog + Youtube releases (Spring and Fall) and then there are "side quest" items like [Advent of Code](https://github.com/LinkBenjamin/adventofcode2024) and blogs about leadership principles, DevOps, agility, and other career-oriented topics.
+My Adventures are posted to a [DEV blog](https://dev.to/LinkBenjamin) and a [Youtube channel](https://www.youtube.com/@TheAdventuresOfBlink/).  We have a sort of "main quest" consisting of Blog + Youtube releases (Spring and Fall) and then there are "side quest" items like [Advent of Code](https://github.com/LinkBenjamin/adventofcode2024) and blogs about leadership principles, DevOps, agility, and other career-oriented topics.
 
 ### About me
 
