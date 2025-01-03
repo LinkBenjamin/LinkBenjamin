@@ -1,4 +1,11 @@
-## Hi there 👋
+## Greetings, fellow Adventurers!
+
+Hey there, I'm Ben... but owing to the fun of corporate username creation policies, I picked up the moniker 'BLink'.  Then an awesome manager who hired me once wrote my onboarding doc in the style of 'Legend of Zelda' quests (because when you're a nerd *and* you have a last name like 'Link', you get ALL THE PUNZ! 🤣) and later when I realized I wanted to do some public Developer-based content, I fused these two thoughts together to establish...
+
+** The Adventures of Blink! **
+
+My Adventures are run through a DEV blog that you can find [here](https://dev.to/LinkBenjamin) and a Youtube channel that you can find [here](https://www.youtube.com/@TheAdventuresOfBlink/).  We have a sort of "main quest" which is seasonal Blog + Youtube releases (Spring and Fall) and then there are "side quest" items like [Advent of Code](https://github.com/LinkBenjamin/adventofcode2024) and blogs about leadership principles, DevOps, agility, and other career-oriented topics.
+
 
 <!--
 **LinkBenjamin/LinkBenjamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
