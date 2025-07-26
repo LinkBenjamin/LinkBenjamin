@@ -18,14 +18,11 @@ After several years there I moved to the largest private employer in my state, w
 
 This section is a bit about me that might help you understand how to interface with me.  Use this to understand how to work with me.
 
-- I don't like large corporate hierarchies.  I think it gets the decisionmaker too far away from the work they're making decisions about.
 - I spent a lot of my career believing I wasn't good enough.  I might need you to remind me sometimes.
 - I hate when people "spare my feelings" while giving feedback.  They waste time and I don't learn from diluted thoughts - be direct.  I'll respect you more for it.
-- I like to run with ideas rather than wait on permission.  Bureaucracy is a big problem for me.
+- I like to run with ideas rather than wait on permission.  Bureaucracy delay is a big problem for me.
 - My name - Benjamin - means "Son of my right hand".  Being helpful is _literally my identity_ and I value opportunities to help others above all else.
 - I don't mind shifting priorities on short notice, but I expect you to explain why things changed!
 - I've struggled with perfectionism in the past.  I've had some good coaches and I feel like I've grown a great deal here!
 - I love to write - guess that's what attracted me to the [blog](https://dev.to/LinkBenjamin)!
 - I need to believe in what I'm doing.  If you don't win my heart, you don't get the full Blink experience.
-- I was one class from a Psychology minor.
-- I'm very sensitive to people who say one thing and do another, and I don't like it at all.  That type of violation is hard to come back from.
